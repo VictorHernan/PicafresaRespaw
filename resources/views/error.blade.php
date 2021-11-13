@@ -1,0 +1,1 @@
+Datos insuficientes, porfavor asegurate de llenar el area de usuario y contraseña
